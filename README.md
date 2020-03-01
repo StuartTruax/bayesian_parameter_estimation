@@ -1,7 +1,8 @@
 # Bayesian Parameter Estimation using Markov Chain Monte Carlo (MCMC)
 
-by Stuart Truax 
-_initial commit: 2020-3__
+by Stuart Truax
+
+_initial commit: 2020-3_
 
 This repo is a collection of jupyter notebooks for doing common Bayesian
 parameter estimation and posterior prediction tasks using `pymc3`
@@ -9,10 +10,10 @@ as the MCMC solver.
 
 Example tasks include:
 
- - Analysis of Variance (ANOVA) using Bayesian methods
- - Estimation of parameters for Gaussian Mixture Models
- - Generating posterior predictive distributions
- - Performing logistic regression using Bayesian methods
+ - Analysis of Variance (__ANOVA__) using Bayesian methods
+ - Estimation of parameters for __Gaussian Mixture Models__
+ - Generating __posterior predictive distributions__
+ - Performing __logistic regression__ using Bayesian methods
 
  In each notebooks, some toy, random data will be generated and used as input
  to the MCMC solver. The random input data is parameterizable, which allows
